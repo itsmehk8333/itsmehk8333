@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m  a Front-end Engineer  from SocailPrachar.com
 - 📚 I’m proficient at Html, Css, Javascript and Reactjs and currently learning responsive web design and redux.
-- 👯 I’m looking for a Front-End developer job. 
+- 👯 I’m looking for a entry level front-End job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hari-krishna-gunnala-3b89b9224/) [Gmail](mailto:harikrishnagunnala833@gmail.com)
 
 Inspired from [AbdelrahmanBayoumi](https://github.com/hazemessam)
