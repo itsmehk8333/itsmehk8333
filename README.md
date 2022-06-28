@@ -4,9 +4,9 @@
 
  I'm a computer science student. I love to write code, solving problems and buildfing projects.
 
-- 🔭 Front-end Engineer  from SocailPrachar.com
+- 🔭 Front-End Engineer  from SocailPrachar.com
 - 📚 Proficient at HTML, CSS, Javascript and Reactjs and Redux. Currently learning Bootstarp and JQuery.
-- 👯 looking for a entry level front-End job. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hari-krishna-gunnala-3b89b9224/) [Gmail](mailto:harikrishnagunnala833@gmail.com)
+- 👯 Looking for a entry level Front-End job. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hari-krishna-gunnala-3b89b9224/) [Gmail](mailto:harigunnala01@gmail.com)
 
 Inspired from [AbdelrahmanBayoumi](https://github.com/hazemessam)
