@@ -4,7 +4,7 @@
 
  I'm a computer science student. I love to write code, solving problems and building projects.
 
-- 🔭 Front-End Engineer  from  DEFTEAM Private Limiteds.
+- 🔭 Software Engineer  from  DEFTEAM Private Limiteds.
 - 📚 working as a Frontend Developer, technologies are HTML, CSS , Javascript , bootstap, JQuery , Reactjs.  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hari-krishna-gunnala-3b89b9224/) [Gmail](mailto:harigunnala01@gmail.com)
 
