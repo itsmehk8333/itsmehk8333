@@ -86,8 +86,6 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
-
 *Thanks for stopping by! Let's build something great together 🚀*
 
 </div>
