@@ -67,27 +67,11 @@ Cloud        ██████████░░░░░░░░░░   AWS 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🏗️ Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | 🖼️ **Image Processing Service** | Async image generation with BullMQ, retry logic, SSE real-time updates | Node.js, BullMQ, Redis, SSE |
-| 🛒 **[Your Project]** | Brief description | React, Node.js, MongoDB |
-| ☁️ **[Your Project]** | Brief description | AWS, Express, MongoDB |
-
-> ⭐ Add your best projects above!
 
 ---
 
